@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Particle Attractor by Moonflower Carnivore/Scenes/demo_scene.unity
+    guid: 5197c489d340abc4ca567b2ac96b15bc
   m_configObjects: {}
